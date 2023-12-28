@@ -1,5 +1,5 @@
 ---
-title: "Jekyll/Github"
+title: "안녕하세요"
 layout: archive
 permalink: categories/blog
 author_profile: true
