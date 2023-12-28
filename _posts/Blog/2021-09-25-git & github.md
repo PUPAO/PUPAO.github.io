@@ -1,5 +1,5 @@
 ---
-title:  "chapter 1 첫 게시물 예시" 
+title:  "git push 후 멈추는 문제" 
 excerpt: "첫 게시물 예시"
 
 categories:
