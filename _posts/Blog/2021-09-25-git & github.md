@@ -1,6 +1,6 @@
 ---
 title:  "git push 후 멈추는 문제" 
-excerpt: "첫 게시물 예시"
+excerpt: "git push 후 멈추는 문제 해결 방법"
 
 categories:
   - Git
@@ -16,10 +16,9 @@ last_modified_at: 2023-12-28
 ---
 
 
-## 위 형식을 참고하여 블로그를 커스텀하시오
+## git push 후 멈추는 문제 해결 방법
 
-`-` 게시물 업로드 양식
-
-## 위 형식을 참고하여 블로그를 커스텀하시오
-
-게시물 업로드 양식
+해결 방법은 cmd창을 키고 깃과 연결된 폴더로 들어간다
+난 PUPAO.github.io로 들어간 후
+git add *, git commit -m "Start git blog", git push를 진행하니 문제가 해결되었다
+그 이유는 모르겠다...
