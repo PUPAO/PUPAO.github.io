@@ -3,15 +3,15 @@ title:  "git push 후 멈추는 문제"
 excerpt: "첫 게시물 예시"
 
 categories:
-  - Blog
+  - Git
 tags:
-  - [Blog, Git, Github,]
+  - [Git, Github, git push]
 
 toc: true
 toc_sticky: true
  
-date: 2020-09-25
-last_modified_at: 2020-09-25
+date: 2023-12-28
+last_modified_at: 2023-12-28
 
 ---
 
