@@ -1,5 +1,5 @@
 ---
-title: "안녕하세요"
+title: "Git"
 layout: archive
 permalink: categories/git
 author_profile: true
